@@ -113,7 +113,7 @@ public class JavaOne {
         int num1 = input.nextInt();
         System.out.print("Enter second number: ");
         int num2 = input.nextInt();
-        System.out.print("Enter operation (add,sub,mul,div): ");
+         System.out.print("Enter operation (add,sub,mul,div): ");
         String choice = input.next();
         switch(choice){
             case("add"):
